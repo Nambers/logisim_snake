@@ -7,6 +7,11 @@
 用logisim软件打开.circ
 
 # 运行图
+主页面
 ![image](https://user-images.githubusercontent.com/35139537/114476386-af641d00-9c2c-11eb-9afe-4c60abd6f833.png)
-![image](https://user-images.githubusercontent.com/35139537/114476469-dae70780-9c2c-11eb-9c33-76670c459ab2.png)
 
+寄存器组
+![image](https://user-images.githubusercontent.com/35139537/119490648-a9b33880-bd8f-11eb-9ff0-d1ce41b1235f.png)
+
+编码
+![image](https://user-images.githubusercontent.com/35139537/114476469-dae70780-9c2c-11eb-9c33-76670c459ab2.png)
