@@ -1,7 +1,10 @@
 # logisim_snake
-使用logisim模拟电路做的简单贪吃蛇(教程有时间补一个，可先参考一个up的教程https://www.bilibili.com/video/BV1wi4y157D3)
+使用[logisim](http://www.cburch.com/logisim/)模拟电路做的简单贪吃蛇(教程有时间补一个，可先参考一个up的教程https://www.bilibili.com/video/BV1wi4y157D3)
 
-`x`和`x1`是两个ROM的命令集
+- `x`和`x1`是两个ROM的hex命令集
+- 命令码.xlsx 是写编码的过程
+- snake.circ 为主程序
+- bin2hex.py 提供把二进制转hex功能，二进制来源xlsx转为hex用于logisim
 
 # 使用方法
 用logisim软件打开.circ
