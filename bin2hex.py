@@ -11,5 +11,5 @@ while True:
         fo.write(re)
         fo.close()
         break
-    re += str(hex(int(s,2))).replace("0x", "") + "\n"
+    re += str(hex(int(s,2))).replace("0x", "").zfill(8) + "\n"
 print(re)
