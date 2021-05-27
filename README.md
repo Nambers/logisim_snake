@@ -11,7 +11,7 @@
 
 # 运行图
 主页面
-![image](https://user-images.githubusercontent.com/35139537/119680009-67632780-be73-11eb-9fc6-9b8845c4336a.png)
+![image](https://user-images.githubusercontent.com/35139537/119829899-4f041300-bf2e-11eb-87eb-fdf6d2cecb83.png)
 
 寄存器组
 ![image](https://user-images.githubusercontent.com/35139537/119490648-a9b33880-bd8f-11eb-9ff0-d1ce41b1235f.png)
