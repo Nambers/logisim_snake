@@ -1,3 +1,5 @@
+> 进一步的电路设计可以看 <https://github.com/Nambers/MIPS64>
+
 # logisim_snake
 使用[logisim](http://www.cburch.com/logisim/)模拟电路做的简单贪吃蛇(教程有时间补一个，可先参考一个up的教程https://www.bilibili.com/video/BV1wi4y157D3)
 
